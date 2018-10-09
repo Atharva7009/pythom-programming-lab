@@ -1,1 +1,1 @@
-a=input(print("enter no "))
+a=input(print("enter no "))#
