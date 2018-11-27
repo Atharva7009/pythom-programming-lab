@@ -2,7 +2,7 @@ s=("hello")
 c=0
 while(c<5):
 	t=input("enter password:")
-        if (t==5):
+        if (t==password):
         	print("you are logged in")
         	break
         else:
